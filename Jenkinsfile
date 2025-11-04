@@ -10,7 +10,7 @@ pipeline {
 
             steps {
 
-                git 'https://github.com/axel1180/assignment3.git'
+                git 'https://github.com/axel180/assignment3.git'
 
             }
 
