@@ -40,7 +40,7 @@ pipeline {
 
                 script {
 
-                    docker.image("assignment3:latest").
+                    docker.image("assignment3:latest").run("-d")
 
                 }
 
